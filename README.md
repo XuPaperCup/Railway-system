@@ -1,6 +1,6 @@
 # Railway-system
 Make railway and minecart work:D
 
-Please help if you can
+Please help as much as you can
 
-NOT DONE!!!
+*NOT DONE!!!
